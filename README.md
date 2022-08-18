@@ -1,2 +1,2 @@
 # dist-dlna-browser
-DLNA browser dist
+DLNA browser releases
